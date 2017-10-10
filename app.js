@@ -31,6 +31,3 @@ geocode.geocodeAddress(argv.address, (errorMsg, result) => {
     });
   }
 });
-
-//5b195ca36cee1455171c95ac6d488a61
-//https://api.darksky.net/forecast/5b195ca36cee1455171c95ac6d488a61/[latitude],[longitude]
